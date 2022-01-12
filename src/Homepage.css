@@ -1,0 +1,13 @@
+.blogs-preview {
+  max-width: 600px;
+  padding: 20px;
+}
+
+.blogs-preview:hover {
+  box-shadow: 5px 5px 10px black
+}
+
+.blogs-preview>h2 {
+  color: #E34f72;
+  padding-bottom: 20px;
+}
