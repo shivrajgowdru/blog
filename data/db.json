@@ -1,17 +1,16 @@
 {
- "blogs":[
-{
-   "title":"my first blog",
-   "body":"Minim cupidatat exercitation adipisicing aliqua. Eiusmod voluptate magna est occaecat eiusmod est reprehenderit. Laborum dolor anim fugiat exercitation duis duis qui ullamco nisi qui laboris sint commodo.",
-    "author":"Shiv",
-    "id":1
-  },
-  
+  "blogs": [
     {
-      "title":"my second blog",
-      "body":"Minim cupidatat exercitation adipisicing aliqua. Eiusmod voluptate magna est occaecat eiusmod est reprehenderit. Laborum dolor anim fugiat exercitation duis duis qui ullamco nisi qui laboris sint commodo.",
-       "author":"prakash",
-       "id":2
-     }
-     ]
+      "title": "my first blog",
+      "body": "Minim cupidatat exercitation adipisicing aliqua. Eiusmod voluptate magna est occaecat eiusmod est reprehenderit. Laborum dolor anim fugiat exercitation duis duis qui ullamco nisi qui laboris sint commodo.",
+      "author": "Shiv",
+      "id": 1
+    },
+    {
+      "title": "my second blog",
+      "body": "Minim cupidatat exercitation adipisicing aliqua. Eiusmod voluptate magna est occaecat eiusmod est reprehenderit. Laborum dolor anim fugiat exercitation duis duis qui ullamco nisi qui laboris sint commodo.",
+      "author": "prakash",
+      "id": 2
     }
+  ]
+}

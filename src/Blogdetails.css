@@ -1,0 +1,18 @@
+.blog-details h2 {
+  color: #ff4D70;
+}
+
+.blog-details div {
+  margin: 20px 0px;
+}
+
+.blog-details button {
+  width: fit-content;
+  margin: 40px auto;
+  border-radius: 5px;
+  background-color: #ff4D70;
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}

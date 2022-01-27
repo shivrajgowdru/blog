@@ -1,0 +1,40 @@
+.form-control {
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  margin: 40px auto;
+}
+
+.form-control h3 {
+  text-align: center;
+  padding: 20px;
+  color: #ff4D70;
+
+}
+
+.form-control label {
+  text-align: left;
+
+}
+
+.form-control input {
+  margin: 10px;
+}
+
+.form-control textarea {
+  margin: 10px;
+}
+
+.form-control select {
+  margin: 10px;
+}
+
+.form-control button {
+  width: fit-content;
+  margin: 40px auto;
+  border-radius: 5px;
+  background-color: #ff4D70;
+  color: white;
+  border: none;
+  padding: 8px;
+}
